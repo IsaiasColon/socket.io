@@ -23,6 +23,6 @@
   "homepage": "https://github.com/IsaiasColon/socket.io#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
